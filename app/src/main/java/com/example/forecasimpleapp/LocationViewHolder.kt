@@ -16,6 +16,6 @@ class LocationViewHolder(parent: ViewGroup) :
 
     @SuppressLint("SetTextI18n")
     fun bind(location: ForecaLocation) {
-        name.text = "${location.name} (${location.county})"
+        name.text = "${location.name} (${location.country})"
     }
 }
