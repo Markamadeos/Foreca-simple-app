@@ -1,4 +1,4 @@
-package com.example.forecasimpleapp.api.service
+package com.example.forecasimpleapp.model
 
 data class CurrentWeather(
     val temperature: Float,

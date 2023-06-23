@@ -1,4 +1,4 @@
-package com.example.forecasimpleapp.api.service
+package com.example.forecasimpleapp.model
 
 data class ForecaLocation(val id: Int,
                           val name: String,
